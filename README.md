@@ -1,0 +1,4 @@
+# credit-card-fraud-detection
+It contains a few lines of code in python which implements Logistic Regression, a machine leanrning algorithm,
+to detect credit card fraud.
+The dataset used here is from Kaggle.
